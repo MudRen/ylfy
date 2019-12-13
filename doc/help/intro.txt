@@ -1,0 +1,89 @@
+¡¡                    [1;34m¡óÏ¦ÑôÔÙÏÖ ÓÎÏ·¼ò½é¡ô[2;37;0m
+------------------------------------------------------------------ 
+    ±¾ÓÎÏ·ÊÇÔÚ¡°½­ºþ·çÔÆ¡±µÄMUDlib»ù´¡ÉÏ¸Ä±à¶ø³ÉµÄ£¬Ê¹ÓÃÁË´ó¼ÒÊìÏ¤
+µÄ½ðÓ¹ÎäÏÀÐ¡ËµÖÐµÄÈËÃûºÍ¹¦·òÃû£¬ÓÐÒ»Ð©ÃØÃÜÒ²ÊÇ¸ù¾Ý½ðÓ¹Ð¡ËµÉè¼ÆµÄ£¬
+µ«ÊÇ»ù±¾ÉÏ¸ú½ðÓ¹Ð¡ËµÇé½ÚÃ»ÓÐÊ²Ã´¹ØÏµ¡£
+ 
+[1;33m¡ùÃÅÅÉ£º[2;37;0m
+    ±¾ÓÎÏ·µÄµÚÒ»½×¶ÎµÄÃÅÅÉÓÐ£ºÕýÅÉÉÙÁÖÅÉ¡¢Îäµ±ÅÉ¡¢ »ªÉ½ÅÉ¡£Ð°ÅÉÐÇ
+ËÞÅÉ¡¢ °×ÍÕÉ½ÅÉ£¬ÒàÕýÒàÐ°ÅÉØ¤°ïµÈ¡£¸÷¸öÃÅÅÉµÄÎä¹¦¸÷ÓÐ¶ÀÌØÖ®´¦£¬µ«
+ÊÇ×ÜÌåÉÏ²¢ÎÞ¸ßÏÂÖ®·Ö¡£»ù±¾ÉÏ£¬ÕýÅÉÎä¹¦ÈëÃÅ±È½ÏÀ§ÄÑ£¬µ«µÇÌÃÈëÊÒÒÔºó
+ÈÚ»á¹áÍ¨£¬¾ÍºÜÈÝÒ×½ø²½ÁË£»¶øÐ°ÅÉÎä¹¦ÈëÃÅÈÝÒ×£¬Ñ§µ½Ò»¶¨³Ì¶Èºó¾Í²»ÈÝ
+Ò×³¤½ø¡£¸÷¸öÃÅÅÉ¶ÔÊÕÍ½ÓÐ²»Í¬µÄ¹æ¶¨£¬¼´Ê¹ÊÇÍ¬Ò»ÃÅÅÉµÄÊ¦¸µ¶ÔÊÕÍ½Ò²ÓÐ
+²»Í¬µÄ±ê×¼¡£ÓÐµÄ±ê×¼ºÜÑÏ£¬ÓÐµÄÔòºÜËÉ¡£ÆäÖÐÉÙÁÖÅÉÖ»ÊÕÄÐÍ½£¬ÆäËüÃÅÅÉ
+ÔòÄÐÅ®¼æÊÕ¡£ÉÙÁÖÅÉÓÐ³ö¼ÒµÜ×ÓºÍË×¼ÒµÜ×Ó£¬³ö¼ÒÓÐÖÖÖÖ²»±ãÖ®´¦£¬µ«ÊÇ¿É
+ÒÔÑ§µ½Ä³Ð©¸ßÉîµÄ¹¦·ò¡£Èç¹ûÄãÏëÅÑÊ¦¡¢ÈÚ»á¸÷ÅÉÎä¹¦¾«»ª£¬¿ÉÒÔºÍÄãµÄÊ¦
+¸µfight £¬Èç¹ûÄã´òÓ®ÁË±¾ÃÅÖÐµÄÕÆÃÅ£¬¾Í¿ÉÒÔ³öÊ¦ÁË¡£´ËÊ±¸Ä°ÝÆäËûÃÅÅÉ
+²»ËãÅÑÊ¦¡£ÔÚÍ¬Ò»ÃÅÅÉÖÐ¸Ä»»Ê¦¸µÒ²²»ËãÊÇÅÑÊ¦¡£
+ 
+[1;33m¡ùÈËÎïµÄÌì¸³ºÍÊôÐÔ£º[2;37;0m
+    ÈËÎïµÄÌì¸³ÓÐÎòÐÔ¡¢¸ù¹Ç¡¢Éí·¨¡¢ëöÁ¦ËÄÏî£¬¶ÔÓÚÑ§Ï°¡¢ÌåÁ¦¸´Ô­¡¢½ø
+¹¥Á¦ºÍ·ÀÓùÁ¦¸÷ÓÐÓ°Ïì¡£Ò»°ãÀ´Ëµ£¬Ìì¸³Ö»¶ÔÓÎÏ·ÔçÆÚÓ°Ïì½Ï´ó¡£Ëæ×Å¹¦·ò
+µÄÔöÇ¿£¬Ìì¸³Ò²»á»ºÂýµØ·¢Éú±ä»¯¡£Èç¹ûÄãÄÜÕÒµ½ÉñÒ©µÄ»°£¬Ò²ÄÜ¹»±»ÓÃÓÚ
+Ôö¼ÓÌì¸³¡£ÈËÎïµÄ»ù±¾ÊôÐÔÓÐ¾«¡¢Æø¡¢Éñ¡£¾«Ëæ×ÅÄêÁäµÄÔö³¤¶øÔö¼Ó£¬Ö÷Òª
+ÓÃÓÚÑ§Ï°Îä¹¦¡£
+    ÆøÊÇÒ»¸öÈËµÄ½¡¿µ×´¿öµÄ±ê×¼£¬ÔÚÕ½¶·ÖÐ±»µÐÈË´òÖÐÆø¾ÍÊÜµ½²»Í¬³Ì¶È
+µÄÉËº¦£¬ÆøµÍÓÚ£±£°£¥Ê±ÈË¾Íµøµ¹£¬Îª£°Ê±ÈË»èÃÔ£¬ÔÚ»èÃÔÊ±ÓÖÊÜµ½¹¥»÷Ôò
+ËÀÍö¡£ËÀÍöºó¿ÉÒÔ¸´»î£¬µ«ÊÇËðÊ§ËùÓÐµÄÇ®²Æ£¬¸÷ÖÖ¼¼ÄÜ¶¼½µÒ»¼¶£¬Éñ¼õÉÙ
+Ê®·ÖÖ®Ò»¡£±¾ÓÎÏ·²¢²»·´¶ÔÍæ¼ÒÖ®¼ä»¥Ïà×·É±£¬Î×Ê¦¶Ô´ËÒ²²»»á¼ÓÒÔ¸ÉÉæ¡£
+    ´ò×ø(exercise)¿ÉÒÔ°ÑÆø»¯ÎªÄÚÁ¦¡£ÄÚÁ¦µÄ¶àÉÙÊÇÓ°Ïì¹¥»÷Á¦ºÍ·ÀÓùÁ¦
+µÄÖ÷ÒªÒòËØÖ®Ò»¡£Ëæ×ÅÄÚÁ¦µÄÔö¶àÆøÒ²»áÔö¼Ó£¬²¢ÇÒÍ¨¹ýÔËÆø(exert recov
+er)ÄÚÁ¦¿ÉÒÔÓÃÓÚ²¹³äÏûºÄµôµÄÆø£¬Í¨¹ý¼ÓÄÚÁ¦(enforce)¿ÉÒÔ¾ö¶¨ÔÚ¹¥»÷Ê±
+Ê¹ÓÃ¼¸·ÖÄÚÁ¦£¬´Ó¶øÔö¼Ó¹¥»÷Ç¿¶È¡£
+    ÉñÊÇÒ»¸öÈËµÄÕýÐ°±ê×¼¡£Éñ¿ÉÕý¿É¸º£¬ÕýÉñ´óµ½Ò»¶¨³Ì¶È¾Í³ÉÎªÉÙÏÀ¡¢
+´óÏÀ»ò¿õÊÀ´óÏÀ£¬¸ºÉñ´óµ½Ò»¶¨³Ì¶È¾Í³ÉÎªÉÙÄ§¡¢´óÄ§»ò´óÄ§Íõ¡£Õý¡¢Ð°ÅÉ
+¶ÔÉñµÄÕý¸º¡¢¶à¹Ñ¸÷ÓÐÒªÇó£¬¶øÒàÕýÒàÐ°ÅÉ²¢²»¹Ü×Ô¼ºµÄµÜ×ÓµÄÉñµÄÕý¸º¡£
+ÉñµÄ»ñµÃÓÐ¼¸ÖÖÍ¾¾¶£¬×îÖ÷ÒªµÄÊÇÉ±ËÀÓÎÏ·ÈËÎï»òÍæ¼Ò£¬°ÑËûÃÇµÄÉñ×ªÒÆµ½
+ÄãµÄÉíÉÏÈ¥¡£É±ËÀÉñÎªÕýµÄÈËÎï»òÍæ¼Ò¿ÉÒÔ»ñµÃ¸ºÉñ£¬·´Ö®£¬É±ËÀÉñÎª¸ºµÄ
+ÈËÎï»òÍæ¼ÒÔò»ñµÃÕýÉñ¡£Èç¹û¸ºÉñºÜ´ó¶øÄÚÁ¦²»¹»µÄ»°£¬ÔòÉ±ÆøÌ«ÖØ£¬¿ÉÄÜ
+»áÊ§È¥¿ØÖÆ¶øÂÒÉ±ÈË¡£
+ 
+[1;31m(×¢Òâ)£º¸÷Î»Íæ¼ÒÔÚÑ§Ï°Ä³Ð©Îä¹¦µÄÊ±ºòÊÇÒªÄ³Ð©ÄÚ¹¦²Å¿ÉÒÔÑ§Ï°£¬
+ËùÒÔÔÚ´ó¼Ò°ÝÊ¦Ç°£¬ÇëÍæ¼Ò¿¼ÂÇÇå³þ£¡
+ 
+[1;33m¡ùÓÎÏ··½·¨ºÍÄ¿±ê£º[2;37;0m
+    Ñ§Ï°Îä¹¦ÓÐÈýÖÖ·½·¨£ºÏòÊ¦¸µÑ§Ï°(learn)£¬ÔÄ¶ÁÎä¹¦ÃØóÅ(study)£¬»ò
+×Ô¼ºÁ·Ï°(practice)¡£
+    Õ½¶·Ò²ÓÐÈýÖÖ£º¶ÔÉ±(kill)£¬¼´ÒÔÉ±ËÀ¶Ô·½ÎªÄ¿µÄ£»Õù¶·(hit)£¬Ö±µ½ÓÐ
+Ò»·½ÑÏÖØÊÜÉË£»ÇÐ´è(fight)£¬¼´µãµ½ÎªÖ¹¡£ÕâÈýÖÖ·½·¨¶¼¿ÉÒÔÓÃÓÚÔö¼ÓÕ½¶·
+¾­Ñé£¬µ«ÊÇÖ»ÓÐÉ±ËÀ¶Ô·½²ÅÄÜ¹»»ñµÃÉñ¡£
+    ±¾ÓÎÏ·ÓÐÈýÖÖÄ¿±ê£ºÒ»£¬³ÉÎª¿õÊÀ´óÏÀ»ò´óÄ§Íõ£»¶þ£¬½Ò¿ªÃØÃÜ£»Èý£¬
+³ÉÎªÎäÁÖµÚÒ»¸ßÊÖ. Ã¿ÔÂÍæ¼ÒÃÇ¶¼ÔÚ»ªÉ½ÂÛ½£Ò»´Î£¬±È³öµ±ÔÂÎäÁÖµÚÒ»¸ßÊÖ¡£
+ 
+[1;33m¡ùÖ¸Áî[2;37;0m
+ 
+    ±¾ÓÎÏ·ÓÐÈýÀàÖ¸Áî£º»ù±¾Ö¸Áî£¬ÌØÊâÖ¸Áî£¬¸ö±ðÖ¸Áî¡£
+    »ù±¾Ö¸ÁîÊÇ£Í£Õ£ÄÒ»°ã¶¼ÓÐµÄÖ¸Áî£¬¹ÊÓÃÓ¢ÎÄ±íÊ¾¡£
+ 
+ÏµÍ³£ºhelp, finger, quit, save, set, unset, whoalias: alias ¡´ËõÐ´
+      ¡µ¡´È«³Æ¡µpasswd: passwd ¡´ÐÂÃÜÂë¡µ
+·½Ïò£ºeast(e), west(w), north(n), south(s), northwest(nw)northeast
+      (ne), southwest(sw), southeast(se)inventory(i) hp
+look(l): look ¡´ÈËÎï¡¢·½Ïò¡¢ÎïÆ·¡µ
+get: get ¡´ÎïÃû¡µ from ¡´ÈËÃû¡µ¡¢get ¡´ÎïÃû¡µ¡¢get all
+give: give ¡´ÎïÃû¡µ to ¡´ÈËÃû¡µ
+buy: buy ¡´ÎïÃû¡µ from ¡´ÈËÃû¡µ
+sell: sell ¡´ÎïÃû¡µ¡¢sell ¡´ÎïÃû¡µ to ¡´ÈËÃû¡µ
+drop: drop ¡´ÎïÃû¡µ
+put: put ¡´ÎïÃû¡µ
+open: open ¡´ÎïÃû¡µ
+close: close ¡´ÎïÃû¡µ
+ask: ask ¡´ÈËÃû¡µ about ¡´ÊÂÎï¡µ
+follow: follow ¡´ÈËÃû¡µ
+fight: fight ¡´ÈËÃû¡µ   £¨Ö±µ½ÓÐÒ»·½µÄÆø½µµÍµ½Ò»°ëµÄ±ÈÊÔ£©
+kill: kill ¡´ÈËÃû¡µ
+wear: wear ¡´ÎïÃû¡µ
+remove: remove ¡´ÎïÃû¡µ
+wield: wield ¡´ÎäÆ÷Ãû¡µ
+unwield: unwield ¡´ÎäÆ÷Ãû¡µ
+wimpy: wimpy ¡´ÌÓÅÜ²ÎÊý¡µ
+suicide -f:¡´×ÔÉ±¡µ
+say: say ¡´ÄÚÈÝ¡µ
+tell: tell ¡´ÈËÃû¡µ¡´ÄÚÈÝ¡µ
+reply: reply ¡´ÄÚÈÝ¡µ
+ 
+    ¸ö±ðÖ¸ÁîÊÇÒ»Ð©ÔÚÌØ¶¨µØµã²ÅÓÃµÃÉÏµÄº±ÓÃÖ¸Áî£¬Ò»°ãÓë½âÃÕÓÐ¹Ø£¬
+²»ÌØ±ðÁÐ³ö£¬ÓÃÆ´Òô¡¢Ó¢ÎÄ¾ù¿É¡£±ÈÈçÄãµÃµ½ÁËÒ»¸ö°ü×Ó£¬Äã¿ÉÒÔÊÔÓÃ
+ÒÔÏÂÖ¸ÁîÈ¥³ÔËü£ºeat baozi, eat baozi, eat dumpling
+------------------------------------------------------------------ 
+

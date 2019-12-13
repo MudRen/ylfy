@@ -1,0 +1,9 @@
+□ 先天气功
+
+五气朝元: exert heal 
+提升攻击力: exert powerup 
+五气朝元: exert hup 
+
+纯阳神通功: perform shen
+神威浩荡: perform dang 
+乾阳剑气: perform jian

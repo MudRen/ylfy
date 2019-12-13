@@ -1,0 +1,9 @@
+□ 杀意心法
+
+杀意：（exert shayi) (level>=100)  对方精受损(需要领悟)
+神足： （exert shenzu)  (level>=100 （wuxing-dun 100)提高轻功(需要领悟)
+救人： （exert wakeup)  (level>=150)  
+驱毒： （exert qudu)  
+疗伤： （exert heal)  
+狂杀： （exert berserk) (需要忍术)
+迷离： （exert durup)   (需要忍术)

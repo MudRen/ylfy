@@ -1,0 +1,6 @@
+□ 天魔神功
+
+吸星大法 (exert xixing)
+战斗力 (exert powerup)
+给别人疗伤 (exert lifeheal)
+疗伤 (exert heal)

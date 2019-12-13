@@ -1,0 +1,8 @@
+                             $HBMAG$$HIC$【朱半仙任务说明文件】$NOR$
+
+$HIM$【任务指令】$HIC$quest$NOR$
+$HIM$【任务奖励】$HIW$江湖阅历$NOR$
+$HIM$【任务地点】$HIC$fly yz;w;s$NOR$
+$HIM$【任务条件】$HIW$接任务$HIY$朱半仙$HIW$会让你去找东西或者杀$HIR$某人$HIW$，按照他的提示做就行了。
+$HIM$【任务失败】$HIW$给$HIY$朱半仙$HIR$10两黄金$HIC$（give 10 gold to zhu banxian）$HIW$放弃当前任务。$NOR$
+$HIR$温馨提示：江湖阅历可以建造陪练室，某些门派拜师需要，升级自练武器和甲也消耗江湖阅历。$NOR$

@@ -1,0 +1,8 @@
+□ 醉棍
+
+绝技是八仙醉打( perform zuida ), 只能在战斗中使用。
+
+功效：臂力和身法都可增强数倍，喝得越醉，战力越强，但耗损内力且不能持久。
+前提：enable club zui-gun and wield club
+八仙醉打: perform zuijiu
+一个连招特技，伤害加成会关联醉酒效果

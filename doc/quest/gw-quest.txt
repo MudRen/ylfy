@@ -1,0 +1,15 @@
+                                $HBMAG$$HIC$【谷物加工厂任务说明文件】$NOR$
+
+$HIM$【任务指令】$HIC$work$NOR$
+$HIM$【任务奖励】$HIC$黄金$NOR$
+$HIM$【任务地点】$NOR$
+$HIR$扬州
+$HIY$东门：$HIC$fly yz;w;s;#3 e;s$HIY$南门：$HIC$fly yz;w;#4 s;w$HIY$西门：$HIC$fly yz;w;s;#3 w;s$HIY$北门：$HIC$fly yz;w;#2 n;e$NOR$
+$HIR$北京
+$HIY$东门：$HIC$fly bj;w;#3 s;#5 e;n或者s$HIY$西门：$HIC$fly bj;w;#3 s;w;n或者s
+$HIR$大理
+$HIY$东门：$HIC$fly dl;#3 e;n或者s$HIY$南门：$HIC$fly dl;#3 s;e或者w$HIY$西门：$HIC$fly dl;#3 w;n或者s$NOR$
+$HIR$成都
+$HIY$东门：$HIC$fly cd;#4 e;n或者s$HIY$南门：$HIC$fly cd;#3 s;e或者w$HIY$西门：$HIC$fly cd;#4 w;n或者s$HIY$北门：$HIC$fly cd;#3 n;e或者w$NOR$
+$HIM$【任务条件】$HIW$输入指令等一会就会提示你完成任务，中途离开谷物加工厂会导致任务失败。$NOR$
+$HIR$温馨提示：每个加工厂只能同时5个人一起工作，所以你注意选择一个人少的才有效率。$NOR$

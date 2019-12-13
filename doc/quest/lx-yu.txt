@@ -1,0 +1,16 @@
+                $HIY$【流星雨事件】$NOR$
+					
+$HIR$流星雨出现条件$NOR$
+  $HIW$游戏时间是晚上的时候有几率会出现$HIY$流星雨$HIW$。$NOR$
+ $HIM$【传言】某人：听说有流星在五毒教大门附近坠落$NOR$
+ $HIM$【传言】某人：听说五毒教大门附近刚刚下了场流星雨$NOR$
+
+$HIR$如何挖掘宝物？$NOR$
+  $HIW$需要一把$HIB$铁锹(tie qiao)$HIW$，在襄阳的$HIG$打铁铺$HIW$有卖。
+  到达流星雨出现的地点以后输出$HIC$digging$HIW$即可挖掘。$NOR$
+  $HIR$温馨提示：铁锹购买地$HIC$fly sc;#3 s;e$NOR$
+
+$HIR$可以挖到什么宝物？$NOR$
+  $HIC$主要掉落：$HIW$寒玉精铁$NOR$ $HIW$万年玄冰(假)$NOR$ $HIR$龙纹赤金$NOR$ 
+            $HIY$飞仙玄晶$NOR$ $HIY$醉月玄晶$NOR$
+$HIR$温馨提示：$HIY$流星雨$HIR$存在时间10分钟，哪些宝物的用途请$HIC$help dt-zbei$HIR$查看。$NOR$

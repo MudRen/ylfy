@@ -1,0 +1,16 @@
+                            $HIY$【人物等级系统】$NOR$
+
+  $YEL$┃$HIW$ 等  级 :  零           $HIY$级$NOR$    $YEL$┃$HIW$ 经  验 :        $HIM$0$HIW$ /  $HIG$100000$NOR$$YEL$┃$NOR$
+  
+  $HIW$上面的状态大家一进游戏查看状态都能看到吧？这就是等级系统。$NOR$
+
+$HIR$【等级系统】$NOR$
+  $HIR$等级$HIW$每提升一级都会提升一定的$HIB$命中$HIW$，$HIG$闪避$HIW$，$HIY$招架$HIW$的$HIM$数值$HIW$。
+  但不影响$HIR$攻击$HIW$和$HIR$防御$HIW$，也就是$HIR$攻击$HIW$、$HIR$防御$HIW$是不会变的，这个你可以通过 score 查看。$NOR$
+  $HIR$温馨提示：等级差距太大对目标造成的伤害也会大幅消减。$NOR$
+
+$HIR$【天赋系统】$NOR$
+  $HIB$臂力：提高物理命中能力。$NOR$
+  $HIM$悟性：提高学习，自练，切磋获得经验的速度。$NOR$
+  $HIY$根骨：提高物理招架能力。$NOR$
+  $HIG$身法：提高物理闪避能力。$NOR$

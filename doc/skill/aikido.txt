@@ -1,0 +1,5 @@
+□ 合气道    
+
+合气道.扭: (perform niu)
+合气道.擒: (perform qin)
+腰斩: (perform yaozhan)

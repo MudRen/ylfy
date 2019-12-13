@@ -1,0 +1,22 @@
+// a skeleton for user rooms
+inherit ROOM;
+void create()
+{
+set("short", "至尊包厢");
+set("long", @LONG
+这里是帮派议事大厅上首有一虎皮金边大椅供帮主休憩议事之用也是帮内至上权威的象征两边各竖着一块黑漆金字牌匾
+
+LONG
+);
+        set("exits", ([
+"south" : "/d/party/music/dating.c",
+]));
+set("objects", ([
+        "/clone/room/npc/tong-ren" : 1,
+       ]) );
+        set("owner", "bigtie7001");
+        set("banghui", "music");
+
+setup();
+}
+

@@ -1,0 +1,10 @@
+                               $HBMAG$$HIC$【运镖任务说明文件】$NOR$
+
+$HIM$【任务指令】$HIC$ask lin zhennan about 运镖$NOR$
+$HIM$【任务奖励】$HIW$经验和潜能$NOR$
+$HIM$【任务地点】$HIC$fly yz;w;s;#2 w;#2 s$NOR$
+$HIM$【任务条件】$HIW$接任务$HIY$林震南$HIW$会把一箱镖银交给你，然后叫你送去$HIR$某人$HIW$那。
+带着镖银找到$HIR$某人$HIW$把镖银交给他$HIC$（give biao yin to 目标ID）$HIW$就完成任务了。
+带着镖银可以直接$HIC$fly$HIW$。
+$HIM$【任务失败】$HIW$你给$HIY$林震南$HIR$10两黄金$HIW$就可以放弃任务。$NOR$
+$HIR$温馨提示：运镖任务可以做到300级。$NOR$

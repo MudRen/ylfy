@@ -1,0 +1,7 @@
+                      $HBMAG$$HIC$【送信任务说明文件】$NOR$
+
+$HIM$【任务指令】$HIC$quest$NOR$
+$HIM$【任务奖励】$HIW$经验和潜能$NOR$
+$HIM$【任务地点】$HIC$fly yz;w;#2 n;w$NOR$
+$HIM$【任务条件】$HIW$接任务$HIY$杜宽$HIW$会交给你一封信让你送给$HIR$某人$HIW$。你把信送到$HIR$某人$HIW$哪里就可以了。$NOR$
+$HIR$温馨提示：送信任务可以做到50级。$NOR$

@@ -1,0 +1,6 @@
+□ 抽髓掌法
+
+毒仙炎:(perform duxian)
+腐尸毒:(perform fushidu) 需要尸体
+施毒：(perform throw) 需要尸体
+抽髓掌施毒: (perform throw) 需要尸体

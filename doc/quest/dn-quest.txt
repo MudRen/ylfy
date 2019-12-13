@@ -1,0 +1,7 @@
+                            $HBMAG$$HIC$【打鸟任务说明文件】$NOR$
+
+$HIM$【任务指令】$HIC$da$NOR$
+$HIM$【任务奖励】$HIW$经验和潜能$NOR$
+$HIM$【任务地点】$HIC$fly xy;#2 e$NOR$
+$HIM$【任务条件】$HIW$到任务地点后直接输入$HIC$da$HIW$就完成任务了。$NOR$ 
+$HIR$温馨提示：打鸟任务可以做到100级。$NOR$

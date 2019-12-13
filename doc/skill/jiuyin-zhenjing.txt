@@ -1,0 +1,7 @@
+□ 九阴真经
+
+移魂大法: exert yihun
+九阴总诀: exert zongjue
+给别人疗伤：exert lifeheal
+疗伤： exert heal
+疗精： exert jingheal

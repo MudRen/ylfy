@@ -1,0 +1,64 @@
+                      $HBMAG$$HIC$【宝石与镶嵌系统】$NOR$
+$HIR$【宝石的获得途径】$NOR$
+  $HIW$迷雾森林的各种$HIY$龙$HIW$和$HIR$千年火龙王$HIW$都有掉落。
+  支持镶嵌这种宝石的$HIM$戒指$HIW$只有$HIR$千年火龙王$HIW$有掉落的。
+  江湖奇遇也会掉落各种等级的宝石，随机掉落在玩家所在的房间里。$NOR$
+  $HIR$温馨提示：去迷雾森林的方法：fly mw;e$NOR$
+
+$HIR$【宝石的种类】$NOR$
+  $HIR$红宝石$NOR$(ruby)
+  $HIY$黄宝石$NOR$(topaz)
+  $HIB$蓝宝石$NOR$(sapphire)
+  $HIG$祖母绿$NOR$(emerald)
+  $MAG$紫水晶$NOR$(amethyst)
+  $HIW$水晶钻$NOR$(diamond)
+  $WHT$骷髅头$NOR$(skull)
+  
+$HIR$【宝石的等级】$NOR$
+  $HIW$1级$HIG$细碎$HIW$，2级$HIG$粗糙$HIW$，3级$HIG$标准$HIW$，4级$HIG$精致$HIW$，5级$HIG$完美$HIW$，6级$HIG$帝王$HIW$，7级$HIG$魔王$HIW$，8级$HIG$天圣$HIW$。$NOR$
+
+$HIM$【宝石的合成】$NOR$
+  $HIC$combine 宝石ID$NOR$ 
+  $HIW$3个等级和颜色一样的宝石可以合成一个更高级的宝石，宝石等级越高效果越高。$NOR$
+  $HIR$温馨提示：合成宝石需要最大内力50万以上。$NOR$
+
+
+
+$HIR$【宝石的作用】$NOR$
+  $HIM$镶嵌在武器的效果$NOR$
+  $HIR$红宝石$NOR$(ruby)$HIW$使对手的气血受到伤害$NOR$
+  $HIY$黄宝石$NOR$(topaz)$HIW$使对手的精气受到伤害$NOR$
+  $HIB$蓝宝石$NOR$(sapphire)$HIW$以魔力使对手忙乱$NOR$
+  $HIG$祖母绿$NOR$(emerald)$HIW$使对手中毒$NOR$
+  $MAG$紫水晶$NOR$(amethyst)$HIW$提升你的攻击力$NOR$
+  $HIW$水晶钻$NOR$(diamond)$HIW$提升兵器的破坏力，并摧毁对手的兵器和杀伤敌人$NOR$
+  $WHT$骷髅头$NOR$(skull)$HIW$吸取对手的气血和内力$NOR$
+
+  $HIM$镶嵌在防具的效果$NOR$
+  $HIR$红宝石$NOR$(ruby)$HIW$战斗中自动恢复气血$NOR$
+  $HIY$黄宝石$NOR$(topaz)$HIW$战斗中自动恢复精气$NOR$
+  $HIB$蓝宝石$NOR$(sapphire)$HIW$减短你的忙乱时间$NOR$
+  $HIG$祖母绿$NOR$(emerald)$HIW$让打中你的对手中毒，并恢复自己$NOR$
+  $MAG$紫水晶$NOR$(amethyst)$HIW$提升你的防御力$NOR$
+  $HIW$水晶钻$NOR$(diamond)$HIW$提升防具的防护力，并减轻你受到的伤害$NOR$
+  $WHT$骷髅头$NOR$(skull)$HIW$让打中你的对手受伤$NOR$
+
+
+
+
+  $HIM$镶嵌在戒指的效果$NOR$
+  $HIR$红宝石$NOR$(ruby)$HIW$提升你的气血上限$NOR$
+  $HIY$黄宝石$NOR$(topaz)$HIW$提升你的精气上限$NOR$
+  $HIB$蓝宝石$NOR$(sapphire)$HIW$提升你的内力$NOR$
+  $HIG$祖母绿$NOR$(emerald)$HIW$提升你的运气$NOR$
+  $MAG$紫水晶$NOR$(amethyst)$HIW$提升你的身法$NOR$
+  $HIW$水晶钻$NOR$(diamond)$HIW$提升你的臂力$NOR$
+  $WHT$骷髅头$NOR$(skull)$HIW$提升魔法石发挥效用的几率$NOR$
+
+$HIR$【宝石的镶嵌】$NOR$
+  $HIC$insert 宝石id into 自练装备ID at socket 装备孔位置1-4$NOR$。
+  $HIR$温馨提示：同一种颜色的宝石一件装备上只能打一个，高级宝石可以覆盖低级宝石。
+  宝石只能镶嵌到自练的装备上，并且需要找张天师给装备开光以后才能镶嵌。$NOR$
+  $HIW$张天师路径：$HIC$（fly ny;#7 n;ne;nw;ne;ne;ne;n;ne;ne;#6 n;e;e;ne;e;n;e
+  give 1 gold to chuan fu;ne;e;se;e;e;eu;su;eu;e;eu;se;sw;w;s;sw;n）
+ （give 1000 gold to zhang tianshi;show 自练装备ID$NOR$，$HIW$最多只能开4个孔。）$NOR$

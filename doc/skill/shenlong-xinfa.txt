@@ -1,0 +1,7 @@
+□ 神龙心法
+
+疗伤 (exert heal)
+解毒 (exert jiedu)
+战力提升 (exert powerup)
+收功 (exert shougong) 收回 无敌  功法
+无敌 (exert wudi) 增加攻防效果 ，提高 50%的气血和精力，顺便恢复满气血和精力

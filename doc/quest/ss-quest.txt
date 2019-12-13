@@ -1,0 +1,8 @@
+                   $HBMAG$$HIC$【杀手生涯任务说明文件】$NOR$
+
+$HIM$【任务指令】$HIC$ask wu zhonglou about kill$NOR$
+$HIM$【任务奖励】$HIW$经验和潜能$NOR$
+$HIM$【任务地点】$HIC$fly yz;w;n;w;n;u$NOR$
+$HIM$【任务完成条件】$HIW$接任务时$HIY$雾中楼$HIW$会让你去杀$HIR$某人$HIW$，你把$HIR$某人$HIW$杀死即可。
+$HIM$【放弃任务】$HIW$给$HIY$雾中楼$HIR$100两黄金$HIC$（give 100 gold to wu zhonglou）$HIW$既可。$NOR$
+$HIR$温馨提示：杀手任务可以一直做，你的等级越高所得奖励越高。$NOR$

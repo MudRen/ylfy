@@ -1,0 +1,6 @@
+□ 狂风快剑
+
+风扫落叶：(perform sao)
+天外狂龙:(perform kuanglong)
+狂风快剑: (perform kuangfeng)
+天外飞龙: (perform feilong)

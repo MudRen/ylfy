@@ -1,0 +1,57 @@
+                        $HIY$【副本系统】$NOR$
+
+$HIR$【新手试练场】$NOR$
+  $HIG$绿林强盗$NOR$
+  $HIC$主要掉落：$HIW$寒玉精铁 $HIG$绿装 $NOR$
+  $HIR$副本入口：$HIC$fly bj;ask ling xing about 新手试练场$NOR$
+
+$HIR$【寂静森林】$NOR$
+  $HIR$草莽山寇$NOR$
+  $HIC$主要掉落：$HIW$寒玉精铁 $HIG$绿装 $NOR$
+  $HIR$副本入口：$HIC$fly mw;#2 n$NOR$
+
+$HIR$【原始森林】$NOR$
+  $HIR$草莽山寇$NOR$
+  $HIC$主要掉落：$HIW$寒玉精铁 $HIG$绿装 $HIB$蓝装 $NOR$
+  $HIR$副本入口：$HIC$fly mw;n;e$NOR$
+
+$HIR$【迷雾森林】$NOR$
+  $HIG$森林贼盗$NOR$
+  $HIC$主要掉落：$HIW$寒玉精铁 $HIB$蓝装 $HIM$紫装 $NOR$
+  
+  $HIY$贼盗头领$NOR$
+  $HIC$主要掉落：$HIR$龙纹赤金 $HIM$紫装 $HIY$金装 $NOR$
+  
+  $HIM$贼盗王$NOR$
+  $HIC$主要掉落：$HIY$飞仙玄晶 $NOR$
+  
+  $HIY$金龙$NOR$
+  $HIC$主要掉落：$HIM$1-8级宝石 $NOR$
+  
+  $HIR$千年火龙王$NOR$
+  $HIC$主要掉落：$HIM$1-8级宝石$NOR$ $HIR$镶嵌戒指$NOR$
+  $HIR$副本入口：$HIC$fly mw;e$NOR$
+
+$HIR$【眠龙洞】$NOR$
+  $HIR$1-5层$HIM$蒙面人$NOR$
+  $HIC$主要掉落：$HIW$寒玉精铁 $HIM$紫装 $NOR$
+  
+  $HIR$6-10层$HIM$蒙面人$NOR$
+  $HIC$主要掉落：$HIW$寒玉精铁 $HIM$紫装 $NOR$
+  
+  $HIR$11层-14层$HIM$蒙面人$NOR$
+  $HIC$主要掉落：$HIY$金装 $NOR$ 
+  
+  $HIB$黑衣人$NOR$
+  $HIC$主要掉落：$HIW$万年玄冰 $HIR$龙纹赤金 $HIM$1-8级宝石 $HIY$秦风宝箱 $HIB$朔雪宝箱$NOR$ $YEL$剑茗宝箱 $NOR$
+  $HIR$副本入口：$HIC$fly mw;s;e$NOR$
+  
+$HIR$【冥府】$NOR$
+  $HIW$丧尸$NOR$
+  $HIC$主要掉落：$HIY$金装 $NOR$
+  
+  $HIW$丧尸王$NOR$
+  $HIC$主要掉落：$HIY$金装 $NOR$
+  $HIR$副本入口：$HIC$fly mf$NOR$
+  
+  $HIR$提示：装备介绍和升级，请$HIC$help dt-zbei$HIR$或$HIC$help tz-xtong$HIR$查看。$NOR$
